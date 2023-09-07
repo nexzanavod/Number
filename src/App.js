@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 
 function App() {
-  const phoneNumber = '123-456-7890'; // Replace with the desired phone number
+  const phoneNumber = '0772544151'; // Replace with the desired phone number
 
   // Function to initiate a phone call
   const callNumber = () => {
