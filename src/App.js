@@ -11,7 +11,7 @@ function App() {
 
   return (
     <div className="app-container">
-      <h1>Your React App</h1>
+
       {/* Button to call a number */}
       <button className="button" onClick={callNumber}>
         Call Number
